@@ -31,6 +31,13 @@ Here are a few projects I've worked on:
 
 ![Earl Junior Piamonte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejpiamonte&show_icons=true&theme=radical)
 
+### Languages & Tools  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/earl-junior-piamonte-b825632ab/)
