@@ -33,7 +33,7 @@ Here are a few projects I've worked on:
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ejpiamonte&layout=compact&langs_count=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ## Connect with Me
 
