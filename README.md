@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Coding my own Portfolio Website
 - 🌱 I’m currently learning UX Design from Google in Coursera
-- 👯 I’m looking to collaborate on Mobile Applications(Fullstack)
+- 👯 I’m looking to collaborate on Mobile Applications(Fullstack) or Website//Web App(Fullstack)
 - 🤔 I’m looking for help with Career Growth!
 - 📫 How to reach me: [Email Me](mailto:ejpiamonte21@gmail.com)
 - 😄 Pronouns: He/Him
@@ -25,7 +25,7 @@ Here are a few projects I've worked on:
 
 1. [ParkWise](https://github.com/ejpiamonte/parkwise-app) - ParkWise: Mobile Parking App with Chat and Reservation
 2. [PantigTuro](https://github.com/ejpiamonte/pantigturo) - PantigTuro: Syllable Segmentation App For Early Language Learning
-3. [Portfolio Website (Ongoing)](link) 
+3. [Portfolio Website](https://ejpiamonte.github.io/personal-portfolio)  
 
 ## GitHub Stats
 
