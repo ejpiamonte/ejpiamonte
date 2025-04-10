@@ -23,9 +23,9 @@
 
 Here are a few projects I've worked on:
 
-1. [ParkWise](https://github.com/ejpiamonte/parkwise-app) - ParkWise: Mobile Parking App with Chat and Reservation
-2. [PantigTuro](https://github.com/ejpiamonte/pantigturo) - PantigTuro: Syllable Segmentation App For Early Language Learning
-3. [Portfolio Website](https://ejpiamonte.github.io/personal-portfolio)  
+1. [ParkWise](https://github.com/ejpiamonte/parkwise-app) - Mobile Parking App with Chat and Reservation
+2. [PantigTuro](https://github.com/ejpiamonte/pantigturo) - Syllable Segmentation App For Early Language Learning
+3. [Portfolio Website](https://ejpiamonte.github.io/personal-portfolio) - Showcase of All My Previous Work
 
 ## GitHub Stats
 
