@@ -29,7 +29,7 @@ Here are a few projects I've worked on:
 
 ## GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejpiamonte&show_icons=true&theme=radical)
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ejpiamonte&theme=radical)
 
 ## Top Languages
 
