@@ -27,7 +27,7 @@ Full-stack and mobile projects while learning in public:
 
 <a href="https://github.com/ejpiamonte/pantigturo"><img src="https://github.com/ejpiamonte/pantigturo/raw/main/Thumbnail.jpg" width="320" alt="PantigTuro demo" /></a>
 
-- 💬 **discord-clone** · 💸 **expense-tracker** · 🎨 **[personal-portfolio](https://ejpiamonte.github.io/personal-portfolio)**
+- 💬 **discord-clone** · 💸 **expense-tracker** · 🎨 **personal-portfolio**
 
 ### 🧱 Chapter 1: Infrastructure & Operations
 I started close to the machines: monitoring, maintenance windows, access requests, runbooks, and SOPs. Working with tools like Dynatrace, SCOM, SCCM, Control-M and ServiceNow taught me what teams *actually* waste time on, and that became my roadmap for what to build.
